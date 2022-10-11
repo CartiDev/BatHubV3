@@ -1,0 +1,11 @@
+if game.PlaceId == 6938803436 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CartiDev/BatHubV3/main/Anime%20Dimensions%20Simulator'))()
+elseif game.PlaceId == 286090429 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CartiDev/BatHubV3/main/Arsenal'))()
+elseif game.PlaceId == 4566572536 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CartiDev/BatHubV3/main/Vehicle%20Legends'))()
+elseif game.PlaceId == 171391948 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CartiDev/BatHubV3/main/VehicleSimulator",true))()
+elseif game.PlaceId == 443406476 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CartiDev/BatHubV3/main/Project%20Lazarus",true))()
+end
