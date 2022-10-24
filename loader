@@ -9,4 +9,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/CartiDev/BatHubV3/mai
 elseif game.PlaceId == 443406476 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CartiDev/BatHubV3/main/Project%20Lazarus",true))()
 end
-
